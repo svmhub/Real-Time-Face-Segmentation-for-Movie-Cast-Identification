@@ -12,6 +12,8 @@ detected faces.
 ### The approach has been followed
 
    1. The Pre-processing has been done by externally.
+      - Tain data has been provided in .npy processed file. It is size in huge, so could not upload it in the repository.
+      - Test data also provided here.
    2. Data understanding, Data Visualization, EDA:
       - Load dataset of movie scene images and corresponding binary face masks.
       - EDA and Data visualization has been done and shown.
