@@ -34,6 +34,8 @@ detected faces.
       - Integrated the trained model into a Streamlit-based web application.
       - Provided an interface where users can upload images or use real-time webcam feeds for detection.
 
+---
 ***Note: I have done this project in the .ipynb file on VS Code. And uploaded the same file in the repository. I mentioned detailed explanation of each and every step of this project here itself. Kindly look at it, then you can understand the things in this project***
+---
 
 ## Hence the project has been done successfully by me! 🤞😂😍
